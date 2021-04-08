@@ -1,0 +1,55 @@
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\EntitiesTemp\bin\Debug\EntitiesTemp.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\EntitiesTemp\obj\Debug\EntitiesTemp.pdb

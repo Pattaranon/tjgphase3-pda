@@ -1,0 +1,60 @@
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\CallServices\bin\Debug\CallServices.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\CallServices\bin\Debug\CallServices.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\CallServices\obj\Debug\CallServices.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\CallServices\obj\Debug\CallServices.pdb
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\CallServices\bin\Debug\CallServices.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\CallServices\bin\Debug\CallServices.pdb
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\CallServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\CallServices\obj\Debug\CallServices.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\CallServices\obj\Debug\CallServices.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\CallServices\bin\Debug\CallServices.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\CallServices\bin\Debug\CallServices.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\CallServices\obj\Debug\CallServices.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\CallServices\obj\Debug\CallServices.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\CallServices\bin\Debug\CallServices.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\CallServices\bin\Debug\System.Data.SqlServerCe.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\CallServices\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\CallServices\obj\Debug\CallServices.pdb

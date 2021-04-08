@@ -1,0 +1,7 @@
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\bin\Debug\ServiceFunction.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\bin\Debug\ServiceFunction.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\bin\Debug\Microsoft.WindowsMobile.Configuration.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\bin\Debug\Microsoft.WindowsMobile.Configuration.xml
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\obj\Debug\ServiceFunction.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ServiceFunction\obj\Debug\ServiceFunction.pdb

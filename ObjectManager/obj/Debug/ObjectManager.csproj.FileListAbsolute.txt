@@ -1,0 +1,50 @@
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\bin\Debug\ObjectManager.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\obj\Debug\ObjectManager.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\obj\Debug\ObjectManager.pdb
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\ObjectManager\bin\Debug\ObjectManager.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\ObjectManager\bin\Debug\ObjectManager.pdb
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\ObjectManager\obj\Debug\ObjectManager.dll
+C:\Users\p0ngkhun-PC\Desktop\TireStockSystemWindowsMobile -Use\ObjectManager\obj\Debug\ObjectManager.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\ObjectManager\bin\Debug\ObjectManager.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\ObjectManager\obj\Debug\ObjectManager.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile -Use\ObjectManager\obj\Debug\ObjectManager.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ObjectManager\bin\Debug\ObjectManager.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ObjectManager\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\ObjectManager\obj\Debug\ObjectManager.pdb

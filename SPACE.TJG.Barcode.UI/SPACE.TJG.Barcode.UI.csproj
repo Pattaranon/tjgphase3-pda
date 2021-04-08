@@ -1,0 +1,569 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SPACE.TJG.Barcode.UI</RootNamespace>
+    <AssemblyName>SPACE.TJG.Barcode.UI</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.2</OSVersion>
+    <DeployDirSuffix>SPACE.TJG.Barcode.UI</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL" />
+    <Reference Include="MobilePrinter, Version=1.0.5241.17400, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="mscorlib" />
+    <Reference Include="MsgBox, Version=1.0.4985.38322, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF, Version=2.0.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.Net, Version=2.0.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="PrinterCE.NetCF, Version=1.2.7.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Utilities, Version=1.0.5905.20420, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activates\frmActivateLicense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Activates\frmActivateLicense.Designer.cs">
+      <DependentUpon>frmActivateLicense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configs\iConfig.cs" />
+    <Compile Include="Configs\MessageActivate.cs" />
+    <Compile Include="Configs\Result.cs" />
+    <Compile Include="Connections\Connection.cs" />
+    <Compile Include="Execute\Executing.cs" />
+    <Compile Include="Forms\frmDeleteDODistributionSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDeleteDODistributionSale.Designer.cs">
+      <DependentUpon>frmDeleteDODistributionSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDistributionRet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDistributionRet.Designer.cs">
+      <DependentUpon>frmDistributionRet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGIRefDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGIRefDelivery.Designer.cs">
+      <DependentUpon>frmGIRefDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGIRefIOEmpty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGIRefIOEmpty.Designer.cs">
+      <DependentUpon>frmGIRefIOEmpty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmGRFromProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmGRFromProduction.Designer.cs">
+      <DependentUpon>frmGRFromProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportCustomer.Designer.cs">
+      <DependentUpon>frmImportCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportCustomerOnline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportCustomerOnline.Designer.cs">
+      <DependentUpon>frmImportCustomerOnline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImportSAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImportSAP.Designer.cs">
+      <DependentUpon>frmImportSAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogout.Designer.cs">
+      <DependentUpon>frmLogout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDelete.Designer.cs">
+      <DependentUpon>frmMenuDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteAllGIRefEmpty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteAllGIRefEmpty.Designer.cs">
+      <DependentUpon>frmMenuDeleteAllGIRefEmpty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteAllGRProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteAllGRProduction.Designer.cs">
+      <DependentUpon>frmMenuDeleteAllGRProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteData.Designer.cs">
+      <DependentUpon>frmMenuDeleteData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteDataForDistributionSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteDataForDistributionSale.Designer.cs">
+      <DependentUpon>frmMenuDeleteDataForDistributionSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteGIToProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteGIToProduction.Designer.cs">
+      <DependentUpon>frmMenuDeleteGIToProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteGRProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDeleteGRProduction.Designer.cs">
+      <DependentUpon>frmMenuDeleteGRProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDistributionSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDistributionSale.Designer.cs">
+      <DependentUpon>frmMenuDistributionSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDistributionSaleForDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDistributionSaleForDelete.Designer.cs">
+      <DependentUpon>frmMenuDistributionSaleForDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDownloadCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDownloadCustomer.Designer.cs">
+      <DependentUpon>frmMenuDownloadCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuDownloadSAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuDownloadSAP.Designer.cs">
+      <DependentUpon>frmMenuDownloadSAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuGIProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuGIProduction.Designer.cs">
+      <DependentUpon>frmMenuGIProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuGRProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuGRProduction.Designer.cs">
+      <DependentUpon>frmMenuGRProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuScanBarcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuScanBarcode.Designer.cs">
+      <DependentUpon>frmMenuScanBarcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuSendData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuSendData.Designer.cs">
+      <DependentUpon>frmMenuSendData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenuSendDataDistributionSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenuSendDataDistributionSale.Designer.cs">
+      <DependentUpon>frmMenuSendDataDistributionSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmModeImportCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmModeImportCustomer.Designer.cs">
+      <DependentUpon>frmModeImportCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPermissionDownloadCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPermissionDownloadCustomer.Designer.cs">
+      <DependentUpon>frmPermissionDownloadCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPermissionDownloadSAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPermissionDownloadSAP.Designer.cs">
+      <DependentUpon>frmPermissionDownloadSAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSelectDistributionRetDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSelectDistributionRetDel.Designer.cs">
+      <DependentUpon>frmSelectDistributionRetDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSelectGIDeliveryDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSelectGIDeliveryDel.Designer.cs">
+      <DependentUpon>frmSelectGIDeliveryDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomeScreen\frmHomeScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeScreen\frmHomeScreen.Designer.cs">
+      <DependentUpon>frmHomeScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Menus\frmMenuDeleteByFunctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Menus\frmMenuDeleteByFunctions.Designer.cs">
+      <DependentUpon>frmMenuDeleteByFunctions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Menus\frmMenuViewByFunctions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Menus\frmMenuViewByFunctions.Designer.cs">
+      <DependentUpon>frmMenuViewByFunctions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmDelivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmDelivery.Designer.cs">
+      <DependentUpon>frmDelivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmOtherScan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmOtherScan.Designer.cs">
+      <DependentUpon>frmOtherScan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmPasswordDeleteByFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmPasswordDeleteByFunction.Designer.cs">
+      <DependentUpon>frmPasswordDeleteByFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmPasswordDeleteByRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmPasswordDeleteByRecord.Designer.cs">
+      <DependentUpon>frmPasswordDeleteByRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmPasswordViewByFunction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmPasswordViewByFunction.Designer.cs">
+      <DependentUpon>frmPasswordViewByFunction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmSelectDeliveryDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmSelectDeliveryDel.Designer.cs">
+      <DependentUpon>frmSelectDeliveryDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmSelectWarehouseDel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmSelectWarehouseDel.Designer.cs">
+      <DependentUpon>frmSelectWarehouseDel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Screens\frmWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Screens\frmWarehouse.Designer.cs">
+      <DependentUpon>frmWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Views\frmDeliveryViewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Views\frmDeliveryViewData.Designer.cs">
+      <DependentUpon>frmDeliveryViewData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Views\frmOtherScanViewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Views\frmOtherScanViewData.Designer.cs">
+      <DependentUpon>frmOtherScanViewData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Views\frmWarehouseViewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\Views\frmWarehouseViewData.Designer.cs">
+      <DependentUpon>frmWarehouseViewData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCE.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Activates\frmActivateLicense.resx">
+      <DependentUpon>frmActivateLicense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDeleteDODistributionSale.resx">
+      <DependentUpon>frmDeleteDODistributionSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDistributionRet.resx">
+      <DependentUpon>frmDistributionRet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGIRefDelivery.resx">
+      <DependentUpon>frmGIRefDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGIRefIOEmpty.resx">
+      <DependentUpon>frmGIRefIOEmpty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmGRFromProduction.resx">
+      <DependentUpon>frmGRFromProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportCustomer.resx">
+      <DependentUpon>frmImportCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportCustomerOnline.resx">
+      <DependentUpon>frmImportCustomerOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImportSAP.resx">
+      <DependentUpon>frmImportSAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogout.resx">
+      <DependentUpon>frmLogout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDelete.resx">
+      <DependentUpon>frmMenuDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDeleteAllGIRefEmpty.resx">
+      <DependentUpon>frmMenuDeleteAllGIRefEmpty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDeleteAllGRProduction.resx">
+      <DependentUpon>frmMenuDeleteAllGRProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDeleteData.resx">
+      <DependentUpon>frmMenuDeleteData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDeleteDataForDistributionSale.resx">
+      <DependentUpon>frmMenuDeleteDataForDistributionSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDeleteGIToProduction.resx">
+      <DependentUpon>frmMenuDeleteGIToProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDeleteGRProduction.resx">
+      <DependentUpon>frmMenuDeleteGRProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDistributionSale.resx">
+      <DependentUpon>frmMenuDistributionSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDistributionSaleForDelete.resx">
+      <DependentUpon>frmMenuDistributionSaleForDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDownloadCustomer.resx">
+      <DependentUpon>frmMenuDownloadCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuDownloadSAP.resx">
+      <DependentUpon>frmMenuDownloadSAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuGIProduction.resx">
+      <DependentUpon>frmMenuGIProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuGRProduction.resx">
+      <DependentUpon>frmMenuGRProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuScanBarcode.resx">
+      <DependentUpon>frmMenuScanBarcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuSendData.resx">
+      <DependentUpon>frmMenuSendData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenuSendDataDistributionSale.resx">
+      <DependentUpon>frmMenuSendDataDistributionSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmModeImportCustomer.resx">
+      <DependentUpon>frmModeImportCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPermissionDownloadCustomer.resx">
+      <DependentUpon>frmPermissionDownloadCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPermissionDownloadSAP.resx">
+      <DependentUpon>frmPermissionDownloadSAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSelectDistributionRetDel.resx">
+      <DependentUpon>frmSelectDistributionRetDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSelectGIDeliveryDel.resx">
+      <DependentUpon>frmSelectGIDeliveryDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeScreen\frmHomeScreen.resx">
+      <DependentUpon>frmHomeScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Menus\frmMenuDeleteByFunctions.resx">
+      <DependentUpon>frmMenuDeleteByFunctions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Menus\frmMenuViewByFunctions.resx">
+      <DependentUpon>frmMenuViewByFunctions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmDelivery.resx">
+      <DependentUpon>frmDelivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmOtherScan.resx">
+      <DependentUpon>frmOtherScan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmPasswordDeleteByFunction.resx">
+      <DependentUpon>frmPasswordDeleteByFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmPasswordDeleteByRecord.resx">
+      <DependentUpon>frmPasswordDeleteByRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmPasswordViewByFunction.resx">
+      <DependentUpon>frmPasswordViewByFunction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmSelectDeliveryDel.resx">
+      <DependentUpon>frmSelectDeliveryDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmSelectWarehouseDel.resx">
+      <DependentUpon>frmSelectWarehouseDel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Screens\frmWarehouse.resx">
+      <DependentUpon>frmWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Views\frmDeliveryViewData.resx">
+      <DependentUpon>frmDeliveryViewData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Views\frmOtherScanViewData.resx">
+      <DependentUpon>frmOtherScanViewData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\Views\frmWarehouseViewData.resx">
+      <DependentUpon>frmWarehouseViewData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmConfigWebService.resx">
+      <DependentUpon>frmConfigWebService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\frmModeConfigWebService.resx">
+      <DependentUpon>frmModeConfigWebService.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmConfigWebService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmConfigWebService.Designer.cs">
+      <DependentUpon>frmConfigWebService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\frmModeConfigWebService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\frmModeConfigWebService.Designer.cs">
+      <DependentUpon>frmModeConfigWebService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\wsTJG\Reference.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\wsTJG\CompositeType.datasource" />
+    <None Include="Web References\wsTJG\Reference.map" />
+    <None Include="Web References\wsTJG\Service.wsdl" />
+    <None Include="Web References\wsTJG\Service.xsd" />
+    <None Include="Web References\wsTJG\Service0.xsd" />
+    <None Include="Web References\wsTJG\Service1.xsd" />
+    <None Include="Web References\wsTJG\Service2.xsd" />
+    <None Include="Web References\wsTJG\Service3.xsd" />
+    <None Include="Web References\wsTJG\Service4.xsd" />
+    <None Include="Web References\wsTJG\ServiceResponse.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="kpilot.ico" />
+    <Content Include="Web References\wsTJG\Service.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CallServices\CallServices.csproj">
+      <Project>{E0218C1B-B046-4C8E-833B-56F358AA486A}</Project>
+      <Name>CallServices</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntitiesTemp\EntitiesTemp.csproj">
+      <Project>{C737DA01-A53C-4469-A21E-6D026A205324}</Project>
+      <Name>EntitiesTemp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectManager\ObjectManager.csproj">
+      <Project>{A6E45A6D-5A25-4FCB-912F-E2B6B0CC8497}</Project>
+      <Name>ObjectManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceFunction\ServiceFunction.csproj">
+      <Project>{40A6F45F-4F50-4605-B85D-9C52146B419B}</Project>
+      <Name>ServiceFunction</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

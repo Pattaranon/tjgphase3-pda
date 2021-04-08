@@ -1,0 +1,10 @@
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\bin\Release\ObjectManager.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\bin\Release\ObjectManager.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\obj\Release\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\obj\Release\ObjectManager.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ObjectManager\obj\Release\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Release\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\bin\Release\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Release\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Release\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ObjectManager\obj\Release\ObjectManager.pdb

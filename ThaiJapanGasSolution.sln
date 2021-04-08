@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterfaces", "UserInterfaces\UserInterfaces.csproj", "{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallServices", "CallServices\CallServices.csproj", "{E0218C1B-B046-4C8E-833B-56F358AA486A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceFunction", "ServiceFunction\ServiceFunction.csproj", "{40A6F45F-4F50-4605-B85D-9C52146B419B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesTemp", "EntitiesTemp\EntitiesTemp.csproj", "{C737DA01-A53C-4469-A21E-6D026A205324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectManager", "ObjectManager\ObjectManager.csproj", "{A6E45A6D-5A25-4FCB-912F-E2B6B0CC8497}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "TOMOEBarcodeSetUp", "..\..\..\..\..\Files SetUp\Phase III\Windows Mobile\TOMOEBarcodeSetUp\TOMOEBarcodeSetUp.vddproj", "{257290A5-EBFD-4ABA-9351-FF4121514A26}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "TJGWindowsMobileSetUp", "..\..\..\..\..\Files SetUp\Phase III\PDA\TJGWindowsMobileSetUp\TJGWindowsMobileSetUp.vddproj", "{CFB49197-2AA6-4C6F-BB7D-84543FFF7F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPACE.TJG.Barcode.UI", "SPACE.TJG.Barcode.UI\SPACE.TJG.Barcode.UI.csproj", "{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE57BF2-1CEC-42F3-B47E-586D8E87FF21}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E0218C1B-B046-4C8E-833B-56F358AA486A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0218C1B-B046-4C8E-833B-56F358AA486A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0218C1B-B046-4C8E-833B-56F358AA486A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0218C1B-B046-4C8E-833B-56F358AA486A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A6F45F-4F50-4605-B85D-9C52146B419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A6F45F-4F50-4605-B85D-9C52146B419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A6F45F-4F50-4605-B85D-9C52146B419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A6F45F-4F50-4605-B85D-9C52146B419B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C737DA01-A53C-4469-A21E-6D026A205324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C737DA01-A53C-4469-A21E-6D026A205324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C737DA01-A53C-4469-A21E-6D026A205324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C737DA01-A53C-4469-A21E-6D026A205324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6E45A6D-5A25-4FCB-912F-E2B6B0CC8497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6E45A6D-5A25-4FCB-912F-E2B6B0CC8497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6E45A6D-5A25-4FCB-912F-E2B6B0CC8497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6E45A6D-5A25-4FCB-912F-E2B6B0CC8497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{257290A5-EBFD-4ABA-9351-FF4121514A26}.Debug|Any CPU.ActiveCfg = Debug
+		{257290A5-EBFD-4ABA-9351-FF4121514A26}.Debug|Any CPU.Build.0 = Debug
+		{257290A5-EBFD-4ABA-9351-FF4121514A26}.Release|Any CPU.ActiveCfg = Release
+		{257290A5-EBFD-4ABA-9351-FF4121514A26}.Release|Any CPU.Build.0 = Release
+		{CFB49197-2AA6-4C6F-BB7D-84543FFF7F6D}.Debug|Any CPU.ActiveCfg = Debug
+		{CFB49197-2AA6-4C6F-BB7D-84543FFF7F6D}.Debug|Any CPU.Build.0 = Debug
+		{CFB49197-2AA6-4C6F-BB7D-84543FFF7F6D}.Release|Any CPU.ActiveCfg = Release
+		{CFB49197-2AA6-4C6F-BB7D-84543FFF7F6D}.Release|Any CPU.Build.0 = Release
+		{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEBFA88-95DD-4983-B1F2-1ECF60C33BFD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

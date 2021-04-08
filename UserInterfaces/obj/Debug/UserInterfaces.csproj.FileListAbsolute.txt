@@ -1,0 +1,377 @@
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+D:\OutSourceFreelance\TJG Solution\Source Code\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\Ionic.Zip.Reduced.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDeleteDODistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomerOnline.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmLogout.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGIRefEmpty.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGRProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteDataForDistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGIToProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGRProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSaleForDelete.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendDataDistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmConfigWebService.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmModeImportCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmModeConfigWebService.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Activates.frmActivateLicense.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\Ionic.Zip.Reduced.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Activates.frmActivateLicense.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDeleteDODistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomerOnline.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmLogout.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGIRefEmpty.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGRProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteDataForDistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGIToProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGRProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSaleForDelete.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendDataDistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmModeImportCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmConfigWebService.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmModeConfigWebService.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\PDA\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\Ionic.Zip.Reduced.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Activates.frmActivateLicense.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDeleteDODistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomerOnline.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmLogout.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGIRefEmpty.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGRProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteDataForDistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGIToProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGRProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSaleForDelete.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendDataDistributionSale.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmModeImportCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadCustomer.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.HomeScreen.frmHomeScreen.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmConfigWebService.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmModeConfigWebService.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuDeleteByFunctions.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByFunction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmDelivery.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmWarehouse.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuViewByFunctions.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmOtherScan.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordViewByFunction.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmDeliveryViewData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmOtherScanViewData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmWarehouseViewData.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByRecord.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectDeliveryDel.resources
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectWarehouseDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\Ionic.Zip.Reduced.dll
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Activates.frmActivateLicense.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDeleteDODistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomerOnline.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmLogout.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGIRefEmpty.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGRProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteDataForDistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGIToProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGRProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSaleForDelete.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendDataDistributionSale.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmModeImportCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadCustomer.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.HomeScreen.frmHomeScreen.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuDeleteByFunctions.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuViewByFunctions.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmOtherScan.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByFunction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmDelivery.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByRecord.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordViewByFunction.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectDeliveryDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectWarehouseDel.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmWarehouse.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmDeliveryViewData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmOtherScanViewData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmWarehouseViewData.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmConfigWebService.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmModeConfigWebService.resources
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+G:\Work\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\Ionic.Zip.Reduced.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Activates.frmActivateLicense.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDeleteDODistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomerOnline.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmLogout.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGIRefEmpty.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGRProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteDataForDistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGIToProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGRProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSaleForDelete.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendDataDistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmModeImportCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.HomeScreen.frmHomeScreen.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuDeleteByFunctions.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuViewByFunctions.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmOtherScan.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByFunction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmDelivery.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByRecord.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordViewByFunction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectDeliveryDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectWarehouseDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmWarehouse.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmDeliveryViewData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmOtherScanViewData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmWarehouseViewData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmConfigWebService.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmModeConfigWebService.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.exe
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\UserInterfaces.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\System.Data.SqlServerCe.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\Ionic.Zip.Reduced.dll
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\CallServices.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ObjectManager.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\EntitiesTemp.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\bin\Debug\ServiceFunction.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Activates.frmActivateLicense.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDeleteDODistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmDistributionRet.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefIOEmpty.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGRFromProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmGIRefDelivery.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportCustomerOnline.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmLogout.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDelete.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGIRefEmpty.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteAllGRProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteDataForDistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGIToProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDeleteGRProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDistributionSaleForDelete.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGIProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuGRProduction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuScanBarcode.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuSendDataDistributionSale.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmModeImportCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadCustomer.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectDistributionRetDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmSelectGIDeliveryDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.HomeScreen.frmHomeScreen.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Main.frmMainMenu.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuDeleteByFunctions.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Menus.frmMenuViewByFunctions.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmOtherScan.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByFunction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmDelivery.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordDeleteByRecord.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmPasswordViewByFunction.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectDeliveryDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmSelectWarehouseDel.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Screens.frmWarehouse.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmDeliveryViewData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmOtherScanViewData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Pages.Views.frmWarehouseViewData.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Properties.Resources.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmConfigWebService.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Settings.frmModeConfigWebService.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.csproj.GenerateResource.Cache
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.exe
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.pdb
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmImportSAP.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmMenuDownloadSAP.resources
+D:\Works\2016\ThaiJapanGas Project\Source Code\Phase III\Windows Mobile\v.1.0.0.7\ThaiJapanGasSolution\UserInterfaces\obj\Debug\UserInterfaces.Forms.frmPermissionDownloadSAP.resources

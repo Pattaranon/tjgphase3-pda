@@ -1,0 +1,12 @@
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ServiceFunction\bin\Release\ServiceFunction.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ServiceFunction\bin\Release\ServiceFunction.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ServiceFunction\obj\Release\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ServiceFunction\obj\Release\ServiceFunction.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\ServiceFunction\obj\Release\ServiceFunction.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\obj\Release\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\obj\Release\ServiceFunction.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\bin\Release\ServiceFunction.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\bin\Release\ServiceFunction.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\bin\Release\Microsoft.WindowsMobile.Configuration.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\bin\Release\Microsoft.WindowsMobile.Configuration.xml
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\ServiceFunction\obj\Release\ServiceFunction.dll

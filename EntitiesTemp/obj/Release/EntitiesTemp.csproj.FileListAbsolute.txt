@@ -1,0 +1,25 @@
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\bin\Release\EntitiesTemp.dll
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\bin\Release\EntitiesTemp.pdb
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\obj\Release\ResolveAssemblyReference.cache
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\obj\Release\EntitiesTemp.dll
+D:\Shrink Flex System\Source Code\ShrinkFlexPDA\ShrinkFlexPDASolution\EntitiesTemp\obj\Release\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemSolution\EntitiesTemp\bin\Release\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemSolution\EntitiesTemp\bin\Release\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemSolution\EntitiesTemp\obj\Release\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemSolution\EntitiesTemp\obj\Release\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemSolution\EntitiesTemp\obj\Release\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemPDASolution\EntitiesTemp\bin\Release\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemPDASolution\EntitiesTemp\bin\Release\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemPDASolution\EntitiesTemp\obj\Release\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemPDASolution\EntitiesTemp\obj\Release\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemPDASolution\EntitiesTemp\obj\Release\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\bin\Release\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\bin\Release\EntitiesTemp.pdb
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\obj\Release\ResolveAssemblyReference.cache
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\obj\Release\EntitiesTemp.dll
+D:\OutSourceFreelance\Tire stock system Solution\Source Code\PDA\TireStockSystemWindowsMobile\EntitiesTemp\obj\Release\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Release\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\bin\Release\EntitiesTemp.pdb
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Release\ResolveAssemblyReference.cache
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Release\EntitiesTemp.dll
+D:\Work\2016\ThaiJapanGas Project\Source Code\Phase II\Windows Mobile\ThaiJapanGasSolution\EntitiesTemp\obj\Release\EntitiesTemp.pdb

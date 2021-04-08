@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:tns="http://tempuri.org/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" name="Service" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://192.168.1.36/TJGService/Service.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://192.168.1.36/TJGService/Service.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://192.168.1.36/TJGService/Service.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/iWebServices" />
+      <xsd:import schemaLocation="http://192.168.1.36/TJGService/Service.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+      <xsd:import schemaLocation="http://192.168.1.36/TJGService/Service.svc?xsd=xsd4" namespace="http://schemas.datacontract.org/2004/07/iWebServices.Objects" />
+      <xsd:import schemaLocation="http://192.168.1.36/TJGService/Service.svc?xsd=xsd5" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IService_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IService_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_ConnectDB_InputMessage">
+    <wsdl:part name="parameters" element="tns:ConnectDB" />
+  </wsdl:message>
+  <wsdl:message name="IService_ConnectDB_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ConnectDBResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_SqlConn_InputMessage">
+    <wsdl:part name="parameters" element="tns:SqlConn" />
+  </wsdl:message>
+  <wsdl:message name="IService_SqlConn_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SqlConnResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_GetDateServer_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDateServer" />
+  </wsdl:message>
+  <wsdl:message name="IService_GetDateServer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDateServerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_IsOnline_InputMessage">
+    <wsdl:part name="parameters" element="tns:IsOnline" />
+  </wsdl:message>
+  <wsdl:message name="IService_IsOnline_OutputMessage">
+    <wsdl:part name="parameters" element="tns:IsOnlineResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdDistributionRet_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdDistributionRet" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdDistributionRet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdDistributionRetResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsUpdDistributionRet_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsUpdDistributionRet" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsUpdDistributionRet_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsUpdDistributionRetResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdGIDelivery_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdGIDelivery" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdGIDelivery_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdGIDeliveryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsUpdGIDelivery_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsUpdGIDelivery" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsUpdGIDelivery_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsUpdGIDeliveryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdGIRefIOEmpty_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdGIRefIOEmpty" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdGIRefIOEmpty_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdGIRefIOEmptyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsGIRefIOEmpty_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsGIRefIOEmpty" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsGIRefIOEmpty_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsGIRefIOEmptyResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdGRProduction_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdGRProduction" />
+  </wsdl:message>
+  <wsdl:message name="IService_InsUpdGRProduction_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsUpdGRProductionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsGRProduction_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsGRProduction" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoInsGRProduction_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoInsGRProductionResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoLoadCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoLoadCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoLoadCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoLoadCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoLoadCustomerByte_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoLoadCustomerByte" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoLoadCustomerByte_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoLoadCustomerByteResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoLoadCustomerStored_InputMessage">
+    <wsdl:part name="parameters" element="tns:DoLoadCustomerStored" />
+  </wsdl:message>
+  <wsdl:message name="IService_DoLoadCustomerStored_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DoLoadCustomerStoredResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/GetData" message="tns:IService_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/GetDataResponse" message="tns:IService_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/GetDataUsingDataContract" message="tns:IService_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/GetDataUsingDataContractResponse" message="tns:IService_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ConnectDB">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/ConnectDB" message="tns:IService_ConnectDB_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/ConnectDBResponse" message="tns:IService_ConnectDB_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SqlConn">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/SqlConn" message="tns:IService_SqlConn_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/SqlConnResponse" message="tns:IService_SqlConn_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDateServer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/GetDateServer" message="tns:IService_GetDateServer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/GetDateServerResponse" message="tns:IService_GetDateServer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="IsOnline">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/IsOnline" message="tns:IService_IsOnline_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/IsOnlineResponse" message="tns:IService_IsOnline_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdDistributionRet">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/InsUpdDistributionRet" message="tns:IService_InsUpdDistributionRet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/InsUpdDistributionRetResponse" message="tns:IService_InsUpdDistributionRet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoInsUpdDistributionRet">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoInsUpdDistributionRet" message="tns:IService_DoInsUpdDistributionRet_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoInsUpdDistributionRetResponse" message="tns:IService_DoInsUpdDistributionRet_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdGIDelivery">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/InsUpdGIDelivery" message="tns:IService_InsUpdGIDelivery_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/InsUpdGIDeliveryResponse" message="tns:IService_InsUpdGIDelivery_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoInsUpdGIDelivery">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoInsUpdGIDelivery" message="tns:IService_DoInsUpdGIDelivery_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoInsUpdGIDeliveryResponse" message="tns:IService_DoInsUpdGIDelivery_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdGIRefIOEmpty">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/InsUpdGIRefIOEmpty" message="tns:IService_InsUpdGIRefIOEmpty_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/InsUpdGIRefIOEmptyResponse" message="tns:IService_InsUpdGIRefIOEmpty_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoInsGIRefIOEmpty">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoInsGIRefIOEmpty" message="tns:IService_DoInsGIRefIOEmpty_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoInsGIRefIOEmptyResponse" message="tns:IService_DoInsGIRefIOEmpty_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdGRProduction">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/InsUpdGRProduction" message="tns:IService_InsUpdGRProduction_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/InsUpdGRProductionResponse" message="tns:IService_InsUpdGRProduction_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoInsGRProduction">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoInsGRProduction" message="tns:IService_DoInsGRProduction_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoInsGRProductionResponse" message="tns:IService_DoInsGRProduction_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoLoadCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoLoadCustomer" message="tns:IService_DoLoadCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoLoadCustomerResponse" message="tns:IService_DoLoadCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoLoadCustomerByte">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoLoadCustomerByte" message="tns:IService_DoLoadCustomerByte_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoLoadCustomerByteResponse" message="tns:IService_DoLoadCustomerByte_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DoLoadCustomerStored">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService/DoLoadCustomerStored" message="tns:IService_DoLoadCustomerStored_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService/DoLoadCustomerStoredResponse" message="tns:IService_DoLoadCustomerStored_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService" type="tns:IService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IService/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IService/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConnectDB">
+      <soap:operation soapAction="http://tempuri.org/IService/ConnectDB" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SqlConn">
+      <soap:operation soapAction="http://tempuri.org/IService/SqlConn" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDateServer">
+      <soap:operation soapAction="http://tempuri.org/IService/GetDateServer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsOnline">
+      <soap:operation soapAction="http://tempuri.org/IService/IsOnline" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdDistributionRet">
+      <soap:operation soapAction="http://tempuri.org/IService/InsUpdDistributionRet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoInsUpdDistributionRet">
+      <soap:operation soapAction="http://tempuri.org/IService/DoInsUpdDistributionRet" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdGIDelivery">
+      <soap:operation soapAction="http://tempuri.org/IService/InsUpdGIDelivery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoInsUpdGIDelivery">
+      <soap:operation soapAction="http://tempuri.org/IService/DoInsUpdGIDelivery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdGIRefIOEmpty">
+      <soap:operation soapAction="http://tempuri.org/IService/InsUpdGIRefIOEmpty" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoInsGIRefIOEmpty">
+      <soap:operation soapAction="http://tempuri.org/IService/DoInsGIRefIOEmpty" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsUpdGRProduction">
+      <soap:operation soapAction="http://tempuri.org/IService/InsUpdGRProduction" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoInsGRProduction">
+      <soap:operation soapAction="http://tempuri.org/IService/DoInsGRProduction" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoLoadCustomer">
+      <soap:operation soapAction="http://tempuri.org/IService/DoLoadCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoLoadCustomerByte">
+      <soap:operation soapAction="http://tempuri.org/IService/DoLoadCustomerByte" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DoLoadCustomerStored">
+      <soap:operation soapAction="http://tempuri.org/IService/DoLoadCustomerStored" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="BasicHttpBinding_IService" binding="tns:BasicHttpBinding_IService">
+      <soap:address location="http://192.168.1.36/TJGService/Service.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
